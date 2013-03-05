@@ -3,7 +3,7 @@
 
 Skeleton is a small collection of CSS that will help you rapidly develop sites that look beautiful at any size, be it a 17" laptop screen or an iPhone.
 
-Check out the docs and homepage here: [http://www.getskeleton.com](www.getskeleton.com)
+Check out the docs and homepage here: [getskeleton.com](http://www.getskeleton.com)
 
 Skeleton is built on three core principles:
 
